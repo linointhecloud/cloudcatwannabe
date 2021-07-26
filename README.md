@@ -38,9 +38,7 @@ I am also an open-source enthusiast and maintainer. i learned a lot from the ope
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
 ```text
-Kotlin       1 hr 37 mins    ████████████████▓░░░░░░░░   67.09 % 
-XML          45 mins         ███████▓░░░░░░░░░░░░░░░░░   31.33 % 
-Git Config   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
+
 ```
 <!--END_SECTION:waka-->
 
