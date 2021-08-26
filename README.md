@@ -38,7 +38,7 @@ I am also an open-source enthusiast and maintainer. i learned a lot from the ope
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
 ```text
-JSON   1 min           █████████████████████████   100.00 % 
+
 ```
 <!--END_SECTION:waka-->
 
