@@ -38,7 +38,7 @@ I am also an open-source enthusiast and maintainer. i learned a lot from the ope
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
 ```text
-PHP             1 hr 42 mins    ███████████████████████▒░   93.59 % 
+PHP             1 hr 42 mins    ███████████████████████▒░   93.60 % 
 CSS             6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.23 % 
 ```
 <!--END_SECTION:waka-->
