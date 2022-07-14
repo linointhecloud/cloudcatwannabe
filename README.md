@@ -39,12 +39,12 @@ I am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <!--START_SECTION:waka-->
 
 ```text
-YAML       58 mins         ███████████▓░░░░░░░░░░░░░   46.77 %
-Makefile   35 mins         ███████░░░░░░░░░░░░░░░░░░   27.98 %
-Go         26 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.36 %
-go.mod     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
-Markdown   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
-Text       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
+Go             47 mins         ███████████░░░░░░░░░░░░░░   43.38 %
+Makefile       37 mins         ████████▓░░░░░░░░░░░░░░░░   34.17 %
+YAML           21 mins         █████░░░░░░░░░░░░░░░░░░░░   19.71 %
+JSON           0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
+Shell Script   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
+go.mod         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
 ```
 
 <!--END_SECTION:waka-->
