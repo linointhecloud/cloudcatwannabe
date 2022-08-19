@@ -39,7 +39,7 @@ I am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <!--START_SECTION:waka-->
 
 ```text
-YAML   14 mins         █████████████████████████   100.00 %
+YAML   7 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
