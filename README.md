@@ -39,7 +39,9 @@ I am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Go           31 mins         ████████████▒░░░░░░░░░░░░   49.83 %
+TypeScript   22 mins         ████████▓░░░░░░░░░░░░░░░░   35.12 %
+YAML         9 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   15.05 %
 ```
 
 <!--END_SECTION:waka-->
