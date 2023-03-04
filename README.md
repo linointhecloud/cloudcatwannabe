@@ -39,11 +39,10 @@ I am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <!--START_SECTION:waka-->
 
 ```text
-Go               2 hrs 43 mins   ████████████████████████▒   97.92 %
-YAML             3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.93 %
-Markdown         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
-go.mod           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Go               1 hr 4 mins     ███████████████████████▓░   94.91 %
+YAML             3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.73 %
+Markdown         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
 ```
 
 <!--END_SECTION:waka-->
