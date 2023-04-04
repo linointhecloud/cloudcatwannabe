@@ -39,9 +39,11 @@ I am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <!--START_SECTION:waka-->
 
 ```text
-Scala        1 hr 31 mins    ███████████▓░░░░░░░░░░░░░   47.15 %
-Go           1 hr 20 mins    ██████████▒░░░░░░░░░░░░░░   41.36 %
-Other        9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 %
+Scala        32 mins         ███████░░░░░░░░░░░░░░░░░░   27.41 %
+TypeScript   28 mins         ██████░░░░░░░░░░░░░░░░░░░   23.57 %
+Go           26 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.85 %
+JavaScript   10 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 %
+Other        9 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 %
 ```
 
 <!--END_SECTION:waka-->
