@@ -39,11 +39,11 @@ I am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <!--START_SECTION:waka-->
 
 ```text
-TOML         48 mins         █████████▓░░░░░░░░░░░░░░░   38.41 %
-YAML         22 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.06 %
-Markdown     21 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.01 %
-TypeScript   20 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.26 %
-Other        5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 %
+TOML         48 mins         ███████████▓░░░░░░░░░░░░░   47.18 %
+Markdown     21 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.89 %
+TypeScript   14 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.38 %
+YAML         5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.67 %
+Other        5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.64 %
 ```
 
 <!--END_SECTION:waka-->
