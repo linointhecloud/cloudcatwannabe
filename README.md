@@ -39,9 +39,9 @@ I am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <!--START_SECTION:waka-->
 
 ```txt
-Terraform   1 hr 58 mins    █████████████████████████   99.85 %
-Other       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
-YAML        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+Go           25 mins         ████████████████████▒░░░░   81.96 %
+YAML         4 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.01 %
+TypeScript   1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 %
 ```
 
 <!--END_SECTION:waka-->
