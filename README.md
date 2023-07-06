@@ -39,8 +39,9 @@ I am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <!--START_SECTION:waka-->
 
 ```txt
-Go     29 mins         ████████████████████████▒   97.29 %
-YAML   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.71 %
+Go           29 mins         ████████████████████████▒   97.27 %
+YAML         0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.71 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
