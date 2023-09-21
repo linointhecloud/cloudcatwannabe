@@ -39,7 +39,11 @@ I am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+JSON             24 mins         ████████████████████░░░░░   79.82 %
+YAML             5 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.20 %
+GDScript         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
+Text             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
 ```
 
 <!--END_SECTION:waka-->
