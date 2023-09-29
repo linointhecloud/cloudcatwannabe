@@ -39,8 +39,7 @@ I am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <!--START_SECTION:waka-->
 
 ```txt
-Makefile   6 mins          ████████████████████████▒   97.69 %
-YAML       0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.31 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
