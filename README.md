@@ -39,7 +39,10 @@ I am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+TOML       14 mins         █████████████████████▒░░░   85.11 %
+JSON       2 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   12.96 %
+Markdown   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
+HTML       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
 ```
 
 <!--END_SECTION:waka-->
